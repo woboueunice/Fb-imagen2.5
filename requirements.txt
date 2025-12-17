@@ -4,6 +4,3 @@ gunicorn
 requests
 Pillow
 gTTS
-ativeai
-
-gunicorn
